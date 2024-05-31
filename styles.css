@@ -3,6 +3,11 @@
   font-size: 20px;
 }
 
+img {
+  width: 500px;
+  height: auto;
+}
+
 .link, .title {
   font-family: 'Times New Roman', serif;
   font-weight: bold;
