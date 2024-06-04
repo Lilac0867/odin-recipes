@@ -10,11 +10,14 @@
   background-color: #fff;
 }
 
-.link-list {
+ol, ul, p {
   margin-left: 50px;
 }
 
 img {
+  display: block;
+  margin: 20px auto 10px;
+
   width: 500px;
   height: auto;
 }
@@ -25,8 +28,9 @@ img {
 }
 
 .title {
-  font-size: 40px;
-  text-align: left;
+  font-size: 60px;
+  padding: 30px;
+  text-align: center;
 }
 
 .main.title {
@@ -36,5 +40,4 @@ img {
   color: black;
 
   font-size: 80px;
-  text-align: center;
 }
